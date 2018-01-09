@@ -11,7 +11,7 @@ export default class App extends TrackerReact(React.Component) {
         super();
         this.state = {
             subscription: {
-                resolutions: Meteor.subscribe('allResolutions')
+                resolutions: Meteor.subscribe('userResolutions')
             }
         }
     }
@@ -27,7 +27,7 @@ export default class App extends TrackerReact(React.Component) {
     render() {
         return (
             <div>
-                <h1>My Resolutions</h1>
+                <h1>My Resolutions - {Session.get('test')}</h1>
                 <ResolutionForm/>
                 <ul className="resolutions">
                     {this.resolutions().map((resolution) => {

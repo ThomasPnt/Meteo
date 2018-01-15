@@ -250,7 +250,7 @@
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../myResolutions" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../ReactTest/first" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -286,12 +286,12 @@
       <workItem from="1515598097629" duration="411000" />
       <workItem from="1515657708347" duration="13362000" />
       <workItem from="1515743669793" duration="13681000" />
-      <workItem from="1516003860191" duration="658000" />
+      <workItem from="1516003860191" duration="1214000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28941000" />
+    <option name="totallyTimeSpent" value="29497000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="929" y="24" width="991" height="1040" extended-state="0" />
